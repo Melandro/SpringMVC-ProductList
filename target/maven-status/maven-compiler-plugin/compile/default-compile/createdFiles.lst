@@ -1,0 +1,6 @@
+net\codejava\repository\ProductRepository.class
+net\codejava\service\ProductService.class
+net\codejava\AppMain.class
+net\codejava\config\MvcConfig.class
+net\codejava\web\AppController.class
+net\codejava\model\Product.class

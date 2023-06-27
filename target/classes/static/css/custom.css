@@ -1,0 +1,6 @@
+body {
+    background-color: lightblue;
+}
+.disabled-link {
+  pointer-events: none;
+}
